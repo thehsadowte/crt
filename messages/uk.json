@@ -1,0 +1,13 @@
+{
+  "$schema": "https://inlang.com/schema/inlang-message-format",
+  "cart": "корзина",
+  "product": "товар",
+  "product_list": "корзина",
+  "add_to_cart": "додати до кошика",
+  "your_cart": "Ваша корзина",
+
+  "cart_empty": "вибачте, ваша корзина порожня",
+  "home": "Додому",
+  "remove": "видалити",
+  "quantity": "кількість"
+}

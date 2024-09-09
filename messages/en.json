@@ -1,0 +1,12 @@
+{
+  "$schema": "https://inlang.com/schema/inlang-message-format",
+  "cart": "cart",
+  "product": "product",
+  "product_list": "product list",
+  "add_to_cart": "add to cart",
+  "your_cart": "your cart",
+  "cart_empty": "sorry..your cart is empty",
+  "home": "home",
+  "remove": "remove",
+  "quantity": "quantity"
+}
